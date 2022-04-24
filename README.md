@@ -1,8 +1,14 @@
 ## Welcome to bsver.com
 
-**bsver.com** provides paymail service, but the prime limit of paymail addresses is 2100. And all paymail addresses will be issued via nft
+**bsver.com** provides paymail service, but the prime limit of paymail addresses is 2100. And all paymail addresses will be issued via nft.
 
-### All released nfts
+
+
+## Proof of buy (POB)
+
+Proof of buy is a new way to issue nfts. Only users who purchased the NFT of [Proof of shit](https://www.nftonshow.com/detail/1af2eb6a4d4c31708b362c1b9e3d1a47db2fce95/0d0fc08db6e27dc0263b594d6b203f55fb5282e2/0) can get the NFT airdropped by bsver.com.
+
+## All issued nfts
 
 NFT | Paymail | owner | KYC
 --- | --- | --- | --- 
@@ -106,5 +112,20 @@ NFT | Paymail | owner | KYC
 98 | - | - | -
 99 | - | - | -
 100 | - | - | -
-... | - | - | -
+... | waiting to list more | - | -
 
+## For holders
+
+- If Vitalik Buterin has NFT of **bsver.com**, he is real bsver. 
+- If CSW doesn't have NFT of **bsver.com**, fuck off.
+- If you are bsver,  buy NFT of **bsver.com**.
+
+**bsver.com** is a brand.
+
+
+<img src="./images/b.jpeg" alt="drawing" width="300"/>
+
+
+----------------
+
+[1] The holder of nft can bind any paymail address, if the paymail address is not bound by other holders.
