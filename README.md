@@ -9,9 +9,9 @@ Proof of buy is a new way to issue nfts. Only users who purchased the NFT of [Pr
 
 ## All issued nfts
 
-NFT | Paymail | owner | KYC
---- | --- | --- | --- 
-1 | hh@bsver.com | [metaid](https://www.showbuzz.app/user_index/user_buzz/e51241d88988b9ae0b9a04972817cb8c95965d3d242b2e6d1ae3837f64f520bd) | Yes
+NFT | Paymail | owner | KYC | Purchase History
+--- | --- | --- | --- | --- 
+1 | hh@bsver.com | [metaid](https://www.showbuzz.app/user_index/user_buzz/e51241d88988b9ae0b9a04972817cb8c95965d3d242b2e6d1ae3837f64f520bd) | Yes | [Tx (issue)](https://whatsonchain.com/tx/a761746b5a697de19c5615a63b9f4bd526587f22178214e8bf1f3634bfa531b9)
 2 | - | - | -
 3 | - | - | -
 4 | - | - | -
