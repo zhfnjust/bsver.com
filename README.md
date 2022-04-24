@@ -1,11 +1,11 @@
 ## Welcome to bsver.com
 
-**bsver.com** provides paymail service, but the prime limit of paymail addresses is 2100. And all paymail addresses will be issued via nft.
+**bsver.com** provides paymail service, but the prime limit of paymail addresses is `2100`. And all paymail addresses will be issued via nft.
 
 
 ## Proof of buy (POB)
 
-Proof of buy is a new way to issue nfts. Only users who purchased the NFT of [Proof of shit](https://www.nftonshow.com/detail/1af2eb6a4d4c31708b362c1b9e3d1a47db2fce95/0d0fc08db6e27dc0263b594d6b203f55fb5282e2/0) can get the NFT airdropped by bsver.com.
+Proof of buy is a new way to issue nfts. Only users who purchased the NFT of [Proof of shit](https://www.nftonshow.com/detail/1af2eb6a4d4c31708b362c1b9e3d1a47db2fce95/0d0fc08db6e27dc0263b594d6b203f55fb5282e2/0) can get the NFT airdropped by bsver.com. In other words, the holder of **Proof of shit** is the issuer of the next nft holder of **bsver.com**.
 
 ## All issued nfts
 
@@ -115,7 +115,7 @@ NFT | Paymail | owner | KYC | Purchase History
 
 ## For holders
 
-This series of nfts has a basic paymail service, and does not promise any other rights and interests to the nft holders, and the holders do not undertake any obligations.
+This series of nfts has a basic paymail service, and `does not promise any other rights and interests to the nft holders`, and the holders do not undertake any obligations.
 
 - If Vitalik Buterin has NFT of **bsver.com**, he is real bsver. 
 - If CSW doesn't have NFT of **bsver.com**, fuck off.
@@ -124,9 +124,22 @@ This series of nfts has a basic paymail service, and does not promise any other 
 **bsver.com** is a brand.
 
 
-<img src="./images/b.jpeg" alt="drawing" width="300"/>
+<img src="./images/b.jpeg" alt="bsver.com" width="300"/>
+
+### Now I invite you to buy [Proof of shit](https://www.nftonshow.com/detail/1af2eb6a4d4c31708b362c1b9e3d1a47db2fce95/0d0fc08db6e27dc0263b594d6b203f55fb5282e2/0) and become a co-publisher of this series of nfts.
 
 
-----------------
+<img src="./images/proof_of_shit.jpeg" alt="Proof of shit" width="300"/>
+
+<br>
+<br>
+<br>
+
+## Notes
+-----------------------------
 
 [1] The holder of nft can bind any paymail address, if the paymail address is not bound by other holders.
+
+[2] Even if all `2100` NFTs in the series are sold out, it likely won't start trading right away. If you ask when, the answer will be `soon`.
+
+
