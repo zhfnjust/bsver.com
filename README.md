@@ -13,8 +13,8 @@ NFT | Paymail | owner | KYC | Purchase History
 --- | --- | --- | --- | --- 
 1 | hh@bsver.com | [metaid:e51241](https://www.nftonshow.com/user/e51241d88988b9ae0b9a04972817cb8c95965d3d242b2e6d1ae3837f64f520bd/sale) | Yes | [Tx (issue)](https://whatsonchain.com/tx/a761746b5a697de19c5615a63b9f4bd526587f22178214e8bf1f3634bfa531b9)
 2 | aaron67@bsver.com | [metaid:b89840](https://www.nftonshow.com/user/b89840e798b334e4f2d5279b6a325b411125e927f2dba16af4208d827ede8e11/sale) | No | [Tx](https://whatsonchain.com/tx/e1e96184f0f4d65ca87d69cdd3c08feecb99aa7bdbce259f0289e0f2f7e4fcf7)
-3 | - | - | -
-4 | - | - | -
+3 | xhliu@bsver.com | [twitter:sinoTrinity](https://twitter.com/sinoTrinity) | No | -
+4 | hero@bsver.com | [csdn:freedomhero](https://blog.csdn.net/freedomhero) | No | -
 5 | - | - | -
 6 | - | - | -
 7 | - | - | -
