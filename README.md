@@ -24,21 +24,21 @@ Once it is purchased in one of the markets, the other markets are removed.
 
 NFT | Paymail | owner | KYC | Purchase History | Issued by
 --- | --- | --- | --- | --- | --- 
-1 | hh@bsver.com | [metaid:e51241](https://www.nftonshow.com/user/e51241d88988b9ae0b9a04972817cb8c95965d3d242b2e6d1ae3837f64f520bd/sale) | Yes | [Tx (issue)](https://whatsonchain.com/tx/a761746b5a697de19c5615a63b9f4bd526587f22178214e8bf1f3634bfa531b9) | hh
-2 | aaron67@bsver.com | [metaid:b89840](https://www.nftonshow.com/user/b89840e798b334e4f2d5279b6a325b411125e927f2dba16af4208d827ede8e11/sale) | No | [Tx](https://whatsonchain.com/tx/e1e96184f0f4d65ca87d69cdd3c08feecb99aa7bdbce259f0289e0f2f7e4fcf7) | aaron
+1 | hh@bsver.com | [metaid:hh](https://www.showbuzz.app/user_index/user_buzz/e51241d88988b9ae0b9a04972817cb8c95965d3d242b2e6d1ae3837f64f520bd) | Yes | [Tx (issue)](https://whatsonchain.com/tx/a761746b5a697de19c5615a63b9f4bd526587f22178214e8bf1f3634bfa531b9) | hh
+2 | aaron67@bsver.com | [metaid:aaron67](https://www.showbuzz.app/user_index/user_buzz/b89840e798b334e4f2d5279b6a325b411125e927f2dba16af4208d827ede8e11) | No | [Tx](https://whatsonchain.com/tx/e1e96184f0f4d65ca87d69cdd3c08feecb99aa7bdbce259f0289e0f2f7e4fcf7) | aaron
 3 | xhliu@bsver.com | [twitter:sinoTrinity](https://twitter.com/sinoTrinity) | No | - | hh
 4 | hero@bsver.com | [csdn:freedomhero](https://blog.csdn.net/freedomhero) | No | - | hh
 5 | elonmusk@bsver.com | [twitter:elonmusk](https://twitter.com/elonmusk) | No | - | hh
-6 | - | - | - | - | -
-7 | - | - | - | - | -
-8 | - | - | - | - | -
-9 | - | - | - | - | -
-10 | - | - | - | - | -
-11 | - | - | - | - | -
-12 | - | - | - | - | -
-13 | - | - | - | - | -
-14 | - | - | - | - | -
-15 | - | - | - | - | -
+6 | F2C@bsver.com | [metaid:混元归气波](https://www.showbuzz.app/user_index/user_buzz/90ee1ab95369b8cc68d570e8d388ded71f167f6cbe04dac8bd4c4763a347dad4) | No | - | hh
+7 | 8@bsver.com | [metaid:元网城管队长](https://www.showbuzz.app/user_index/user_buzz/86a37a62b436d03c5463a8ade29d5b786d1bf7c3cd4700acddd807aaa39d3dc9) | No | - | hh
+8 | aobencong@bsver.com | [metaid:可能回本ma](https://www.showbuzz.app/user_index/user_buzz/a6086ede81463251b773d47594b0c7f438d245b05276c093dc7a94768fd6c8f2) | No | - | hh
+9 | yyds@bsver.com | [metaid:陆地阳光](https://www.showbuzz.app/user_index/user_buzz/481e411a6a88ad665aebe7794c3e30bbf2ac7c469283732d57c30962f749ac00) | No | - | hh
+10 | 1@bsver.com | [metaid:Yamtt](https://www.showbuzz.app/user_index/user_buzz/263e4afeb0ff6602e88a0115ed7e9de9d6da9f9aa75da50dd0e66f7f2388ab2f) | No | - | hh
+11 | liuye@bsver.com | [metaid:刘晔Lawyer](https://www.showbuzz.app/user_index/user_buzz/2df27132058cd24ff9ef2939315c9ca0d8ec88733f5bda0df130b7798efea972) | No | - | hh
+12 | 100@bsver.com | [metaid:青蛙](https://www.showbuzz.app/user_index/user_buzz/4167d2c0354c1d5f4fdf06eab1a5e96a325c2702b21c13a9a36bedf8210fe8c7) | No | - | hh
+13 | fuck@bsver.com | [metaid:上班摸鱼才是赚钱的小号](https://www.showbuzz.app/user_index/user_buzz/48cb8fd81393382af235549924641f4dd2f9ee477c75638aa647f39163ce4d8d) | No | - | hh
+14 | fuckshow@bsver.com | [metaid:david](https://www.showbuzz.app/user_index/user_buzz/408c4ef1a2e22f935be8c008af9cd96ac0d91017aa87116b8665c064ecf05d45) | No | - | hh
+15 | mcshit@bsver.com | [metaid:顺顺](https://www.showbuzz.app/user_index/user_buzz/a44c515d629f28568e61f4e3f15db701d1629c3517ac73664907025358826690) | No | - | hh
 16 | - | - | - | - | -
 17 | - | - | - | - | -
 18 | - | - | - | - | -
