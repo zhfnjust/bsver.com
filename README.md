@@ -5,7 +5,20 @@
 
 ## Proof of buy (POB)
 
-Proof of buy is a new way to issue nfts. Only users who purchased the NFT of [Proof of shit](https://www.nftonshow.com/detail/1af2eb6a4d4c31708b362c1b9e3d1a47db2fce95/0d0fc08db6e27dc0263b594d6b203f55fb5282e2/0) can get the NFT airdropped by bsver.com. In other words, the holder of **Proof of shit** is the issuer of the next nft holder of **bsver.com**.
+Proof of buy is a new way to issue nfts. Only the holder of **Proof of shit** can issue all the remaining NFTs of **bsver.com**. In other words, the holder of **Proof of shit** is the issuer of all the remaining NFTs.
+
+**Proof of shit** is a standalone nft. You can buy it in the following nft marketplace:
+
+- [NFTOnShow](https://www.nftonshow.com/detail/1af2eb6a4d4c31708b362c1b9e3d1a47db2fce95/0d0fc08db6e27dc0263b594d6b203f55fb5282e2/0)
+- [Relayx](https://relayx.com/market/5b26075d4fa759bc24ca3653a7afd8cf60b9f7f31e8c7d12d54d138897683bd6_o2)  
+
+Once it is purchased in one of the markets, the other markets are removed.
+
+<img src="./images/proof_of_shit.jpeg" alt="Proof of shit" width="300"/>
+
+
+<br>
+<br>
 
 ## All issued nfts
 
@@ -121,18 +134,11 @@ This series of nfts has a basic paymail service, and `does not promise any other
 - If CSW doesn't have NFT of **bsver.com**, fuck off.
 - If you are bsver,  buy NFT of **bsver.com**.
 
-**bsver.com** is a brand.
+**bsver.com** is a global brand. Now I invite you to buy **Proof of shit** and become a co-publisher of this series of nfts.
 
 
 <img src="./images/b.jpeg" alt="bsver.com" width="300"/>
 
-### Now I invite you to buy [Proof of shit](https://www.nftonshow.com/detail/1af2eb6a4d4c31708b362c1b9e3d1a47db2fce95/0d0fc08db6e27dc0263b594d6b203f55fb5282e2/0) and become a co-publisher of this series of nfts.
-
-
-<img src="./images/proof_of_shit.jpeg" alt="Proof of shit" width="300"/>
-
-<br>
-<br>
 <br>
 
 ## Notes
