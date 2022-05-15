@@ -39,8 +39,8 @@ NFT | Paymail | owner | KYC | Purchase History | Issued by
 13 | fuck@bsver.com | [metaid:上班摸鱼才是赚钱的小号](https://www.showbuzz.app/user_index/user_buzz/48cb8fd81393382af235549924641f4dd2f9ee477c75638aa647f39163ce4d8d) | No | - | hh
 14 | fuckshow@bsver.com | [metaid:david](https://www.showbuzz.app/user_index/user_buzz/408c4ef1a2e22f935be8c008af9cd96ac0d91017aa87116b8665c064ecf05d45) | No | - | hh
 15 | mcshit@bsver.com | [metaid:顺顺](https://www.showbuzz.app/user_index/user_buzz/a44c515d629f28568e61f4e3f15db701d1629c3517ac73664907025358826690) | No | - | hh
-16 | - | - | - | - | -
-17 | - | - | - | - | -
+16 | wangsicong@bsver.com | - | - | - | hh
+17 | luna@bsver.com | [metaid:Dandelion](https://www.showbuzz.app/user_index/user_buzz/e9ab42667c5f5a6a1e7d45ed023f8961ee6950bba8a771d68732c8fb460a7aae) | No | - | hh
 18 | - | - | - | - | -
 19 | - | - | - | - | -
 20 | - | - | - | - | -
