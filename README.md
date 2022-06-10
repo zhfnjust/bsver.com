@@ -14,7 +14,7 @@ Proof of buy is a new way to issue nfts. Only the holder of **Proof of shit** ca
 
 - [talis.art](https://talis.art/token/62a33d28e15f72b5f0d3dbae)
 
-Once it is purchased in one of the markets, the other markets are removed.
+**Once it is purchased in one of the markets, the other markets are removed.**
 
 <img src="./images/proof_of_shit.jpeg" alt="Proof of shit" width="300"/>
 
@@ -143,13 +143,23 @@ This series of nfts has a basic paymail service, and `does not promise any other
 
 <br>
 
+## Contract US
+
+[Telegram](https://t.me/bsverDotcom)
+
+
 ## Notes
 -----------------------------
 
-[1] The holder of nft can bind any paymail address, if the paymail address is not bound by other holders.
+[1] What is a [paymail address](https://wiki.bitcoinsv.io/index.php/Paymail)
 
-[2] Even if all `2100` NFTs in the series are sold out, it likely won't start trading right away. If you ask when, the answer will be `soon`.
+[2] The holder of nft can bind any paymail address, if the paymail address is not bound by other holders.
 
-[3] Each paymail address needs to perform kyc before starting to receive bitcoins.
+[3] Even if all `2100` NFTs in the series are sold out, it likely won't start trading right away. If you ask when, the answer will be `soon`.
+
+[4] Each paymail address needs to perform kyc before starting to receive bitcoins.
+
+
+
 
 
