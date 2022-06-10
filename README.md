@@ -12,6 +12,8 @@ Proof of buy is a new way to issue nfts. Only the holder of **Proof of shit** ca
 - [NFTOnShow](https://www.nftonshow.com/detail/1af2eb6a4d4c31708b362c1b9e3d1a47db2fce95/0d0fc08db6e27dc0263b594d6b203f55fb5282e2/0)
 - [Relayx](https://relayx.com/market/5b26075d4fa759bc24ca3653a7afd8cf60b9f7f31e8c7d12d54d138897683bd6_o2)  
 
+- [talis.art](https://talis.art/token/62a33d28e15f72b5f0d3dbae)
+
 Once it is purchased in one of the markets, the other markets are removed.
 
 <img src="./images/proof_of_shit.jpeg" alt="Proof of shit" width="300"/>
