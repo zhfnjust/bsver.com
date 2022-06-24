@@ -44,7 +44,7 @@ NFT | Paymail | owner | KYC | Purchase History | Issued by
 16 | wangsicong@bsver.com | - | - | - | hh
 17 | luna@bsver.com | [metaid:Dandelion](https://www.showbuzz.app/user_index/user_buzz/e9ab42667c5f5a6a1e7d45ed023f8961ee6950bba8a771d68732c8fb460a7aae) | No | - | hh
 18 | lunc@bsver.com | - | - | - | hh
-19 | - | - | - | - | -
+19 | dog@bsver.com | [metaid:张国庆](https://www.showbuzz.app/user_index/user_buzz/05a6b9eb4f233d105f227c10e0825cbbb8ee858ef01fdebc3a0b425172f6f728) | No | - | hh
 20 | - | - | - | - | -
 21 | - | - | - | - | -
 22 | - | - | - | - | -
