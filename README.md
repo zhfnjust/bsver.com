@@ -143,6 +143,10 @@ This series of nfts has a basic paymail service, and `does not promise any other
 
 <br>
 
+## Lunc Burn
+
+[Total burned](./total-burned.md)
+
 ## Contract US
 
 [Telegram](https://t.me/bsverDotcom)

@@ -1,0 +1,4 @@
+# Total burned lunc by bsver DAO
+
+
+- [272,297.545871](https://finder.terra.money/classic/tx/29683B64F0D34CE8B53BBFCF13EEBB13D1F3F9D0912AF8330BB10EAC458A6FA1)
